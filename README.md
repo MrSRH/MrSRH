@@ -1,4 +1,4 @@
-### <div align="center">I'm Reza, a full-time full-stack freelance developer 👨‍💻 working remotely since 2019</div>  
+### <div>I'm Reza, a full-time full-stack freelance developer 👨‍💻 working remotely since 2019</div>  
   
 
 - 🔭 I’m currently working on Laravel application  
